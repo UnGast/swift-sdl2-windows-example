@@ -1,1 +1,2 @@
+add_subdirectory(CSDL2)
 add_subdirectory(Application)

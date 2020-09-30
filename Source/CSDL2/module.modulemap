@@ -1,0 +1,5 @@
+module CSDL2 {
+  header "shim.h"
+  header "include/SDL.h"
+  export *
+}
